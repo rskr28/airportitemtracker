@@ -1,0 +1,17 @@
+.navbar-brand{
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar{
+    opacity:0.5;
+}
+.navbar:hover{
+    box-shadow: 5px 5px 10px grey;
+    opacity:1;
+}
+.nav-link{
+    transition: all 0.2s;
+}
+.nav-link:hover{
+    text-decoration: underline;
+    color:blue;
+}
