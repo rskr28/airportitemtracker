@@ -1,2 +1,2 @@
-buildCommand: npm install --prefix frontend && npm run build --prefix frontend
-startCommand: npm run start --prefix frontend
+buildCommand: npm install && npm run build --prefix src
+startCommand: npm run start --prefix src
